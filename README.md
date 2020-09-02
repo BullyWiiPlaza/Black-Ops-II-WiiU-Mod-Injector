@@ -1,6 +1,6 @@
 # Black Ops II Wii U Mod Injector
 
-This is the **[first ever](https://www.youtube.com/watch?v=crrO40OwvHo)** and most advanced mod injector for Black Ops II Wii U, created by BullyWiiPlaza. It originally came out in 2015 and has been developed since then. It comes in 3 different flavours: Standard, development and non-host mod menu.
+This is the **[first ever](https://www.youtube.com/watch?v=crrO40OwvHo)** and most advanced mod injector for Call of Duty: Black Ops II Wii U, created by **BullyWiiPlaza**. It originally came out in 2015 and has been developed since then. It comes in 3 different flavours: Standard, development and non-host mod menu.
 
 ## Download
 
