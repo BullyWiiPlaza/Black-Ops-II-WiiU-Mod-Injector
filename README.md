@@ -4,7 +4,7 @@ This is the **[first ever](https://www.youtube.com/watch?v=crrO40OwvHo)** and mo
 
 ## Download
 
-The download for the mod injector can be found on the GitHub Releases [**here**](https://github.com/BullyWiiPlaza/Black-Ops-II-WiiU-Mod-Injector/releases).
+The download for the mod injector can be found on the GitHub Releases [**here**](https://github.com/BullyWiiPlaza/Black-Ops-II-WiiU-Mod-Injector/releases/latest).
 
 Please note that this download already includes all flavours of the mod injector and everything you need to get up and running on the PC side, besides Java itself.
 
