@@ -4,7 +4,7 @@ This is the **[first ever](https://www.youtube.com/watch?v=crrO40OwvHo)** and mo
 
 ## Download
 
-The download for the mod injector can be found in the description of **[this](https://www.youtube.com/watch?v=J819obOlbQk)** YouTube video.
+The download for the mod injector can be found on the GitHub Releases [**here**](https://github.com/BullyWiiPlaza/Black-Ops-II-WiiU-Mod-Injector/releases).
 
 Please note that this download already includes all flavours of the mod injector and everything you need to get up and running on the PC side, besides Java itself.
 
@@ -97,7 +97,7 @@ After you paid, you need to send me your license key via one of your preferred c
 
 ## License Transfers
 
-You may request a license transfer from your old to your new computer if you contact me and provide proof of your initial payment.
+You may request a free license transfer from your old to your new computer if you contact me and provide proof of your initial payment.
 
 ## Contact
 
